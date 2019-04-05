@@ -1,5 +1,5 @@
 # Master Async/Await With This Real World Example
-## Currency Converter
+## Currency Converter Tutorial
 In this tutorial, we will build simple, but educational and useful application that is going to improve your overall knowledge of Async/Await. 
 
 The program will take in currency code we want to convert from and currency code we want to convert to, as well as the amount of money, afterwards, the program will output correct exchange rate based on the data from the API’s.
