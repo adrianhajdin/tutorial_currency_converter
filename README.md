@@ -6,6 +6,8 @@ This is a code repository for the corresponding [article](https://medium.freecod
 
 In this tutorial, you will learn how to generate dynamic PDFs using HTML code as a template.
 
+## Project Setup
+
 1. Create a new directory
 ```mkdir pdfGenerator && cd pdfGenerator```
 2. Create a new React App with ```create-react-app client``` and then move into newly created directory and install dependencies ```cd client && npm i -S axios file-saver```
